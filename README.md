@@ -15,10 +15,10 @@ Users can share their thoughts, respond to friends' thoughts, and build a friend
 
 ## ScreenShot
 
-![social-network-API](./images/Screenshot%202022-12-04%20at%2014.50.23.png)
+![social-network-API](./images/Screenshot%202022-12-04%20at%2017.57.01.png)
 
 ## Links
 
 GitHub URL - https://github.com/ramlaahmed/social-network-API
 
-Walk through URL -
+Walk through URL - https://drive.google.com/file/d/1ucQc6Whf4ogEG-dZnWIiAQFbbi9D0gLz/view
