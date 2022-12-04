@@ -1,5 +1,5 @@
-const Thought = require("./Thought");
+const thought = require("./thought");
 const User = require("./User");
 
 
-module.exports = { Thought , User };
+module.exports = { User, thought};
