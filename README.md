@@ -2,7 +2,7 @@
 
 ## Overview
 
-Users can share their thoughts, respond to friends' thoughts, and build a friend list using this API for a social network web application.
+This is a social network application that allows the user to create users and manage their users thoughts and reactions.
 
 ## Technologies
 
